@@ -7,7 +7,7 @@ Simple Requirements:
 4) Make sure to have the right COM port in dataSender.py
 
 5) Any Arduino computer, I personally used a Nano
-6) 16x2 LCD screen
+6) Your favorite display, I used a 16x2 LCD screen
 7) Red & Green LEDs
 8) A buzzer
 

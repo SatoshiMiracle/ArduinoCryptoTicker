@@ -25,9 +25,11 @@ void loop() {
         
         if (previousBytes > inBytes) {
             digitalWrite(5, HIGH);
+            tone(2, 1000);
             delay(1000);
             digitalWrite(5, LOW);
             lcd.clear();
+            noTone(2);
         }
 
         else {

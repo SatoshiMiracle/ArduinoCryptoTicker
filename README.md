@@ -17,6 +17,6 @@ How does it work:
 2) The Arduino computer then processes the sent data and prints the real-time price on your display.
 3) If the previously displayed price is greater than the current displayed price, the buzzer is activated and the red LED is turned on, indicating a negative price change. Otherwise, the green LED turns on.
 
-After you configure the software side as noted above, connect the Arduino to your computer with a USB cable.
+After you download the required libraries and configure the software to work with your preferred crypto, setup the hardware as noted above and simply connect the Arduino to your computer with a USB cable.
 
 Have Fun!!!!
